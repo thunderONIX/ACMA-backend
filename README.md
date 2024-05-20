@@ -10,7 +10,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Express.js](https://expressjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
-- [Vercel](https://vercel.com/)
 
 ## 💻 Projeto
 
